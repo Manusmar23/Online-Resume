@@ -1,0 +1,38 @@
+.resume {
+    display: flex;
+  }
+  
+  .left-column {
+    flex-basis: 30%;
+    padding: 20px;
+    background-color: aqua;
+  }
+  
+  .right-column {
+    flex-basis: 70%;
+    padding: 20px;
+    background-color: aquamarine;
+  }
+  
+  h1, h2, h3, h4 {
+    margin-top: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .fa {
+    margin-right: 5px;
+  }
+  
+  .date {
+    font-style: italic;
+  }
+
+  .Paragraph {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
